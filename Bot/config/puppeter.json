@@ -1,7 +1,7 @@
 {
     "base_url": "https://www.instagram.com",
-    "username": "comofaznacozinha",
-    "password": "881032",
+    "username": "teste",
+    "password": "123456",
     "hashTags": ["Beautiful","like4like","happy","likeforlike","riodejaneiro","love","photooftheday","hashtagsbrasil","tbt","cute","me","brasil","verao","praia","sol","sdv"],
    "settings": {
         "run_every_x_hours": 1,
