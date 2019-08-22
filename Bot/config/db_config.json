@@ -1,8 +1,8 @@
 {
     "type": "service_account",
     "project_id": "ig-bot-demo-9a6ca",
-    "private_key_id": "ebe1bd0e967080d9a5620b6c13df66c13c2d2e5c",
-    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCSrTolqVjqZ3lk\nYko5LhmmByDKR1992MDWUF8KEvG//0mRChSJ6oh2WYZHOJR+mavYjjhyu4g2ucA/\n6ezTNgmoLbnUgy6wcEx+5L/NSwXWZMygYW821ieWz/eitlxIWqcoF0EybGRF/rJH\nqf55uDvkW1fOb+slPKtyCtkk2a8xgeH7/6avZEZzD92et32y4H6XTqdLRqusJ/zH\nn9GRZxODPSS2/c7XcHDi8oxWXBq5uVWeofmjkFWSRbLqP4hBHwfHJxWYDbrqUA4M\n3XVpETppjdSd53IcdaxMtrv4QxBUArECgw1+xoU9+cspGyaxGrqrdAyL2t1yqVFI\nmeB+hgyjAgMBAAECggEAOuiJrvCJvnLaZT+4kah7MpwwRi1OI8v2/tv+n5wmLbdJ\nA5Bp2U4xil7AOEB4GzR6uRm9gA7jUR9fIAxCSj2suTfMJ5acHM6tWlVi1v+nk4ie\nSld3hC2UbtSNn3LgM0r9UXOtgqPXzejSD0gt5RLiMv+gj0+RwD3SmZXTyiIHY7kr\nqifMlHle8kv2a73HWAqjW965L8WMbOefzatBIwPx4ijFv/YQ4M6L2HNQwu6mUNUx\nLUOsym3WXsNFuQ2ceoSIDP5XXDSkfFvVdlJjSzDg6vKCP5UCPpOeONtrJURTtQrR\nPLSy44S8gQMfTUDy7+bL4+9+fjfiqouwX92yq0ygWQKBgQDGIIpRVbRPFi+iNrA4\nTNnMBCkkjehEMuX+7Z5RjqPEFxR3n3O6fXmpF7fG9cRRcwRaPbKwP3U8yS7Fletc\nv0nirfoKOoOAK3f1zKoE+m/e9+E9HfZMo6YXJtb6iR4SbV82BZ1OGI2JlodmI7Ed\nFz7uINHZ1+nzaRL9+P/GRXnU5wKBgQC9hVlQrd307zwY+puuMGMU5oSDsqI93HGd\nAZclthdsHQfo7enfh8UI8ukPaOebEBwMj2hHTIYTa6yRVkfNjVGpjXn+YDH1aIWo\nhCEZfDJNx9VVGVbQkTwASSdtUP+xS3a1Zci4Ib60474Pd4mbQplNyMKP8JlSgsBN\nz3DW1zNW5QKBgDFOq92uDJ+aD+S444Y/afyiFHMqdeFzIVYeYMY/T3ZfoBJdNnn0\n/DAe3PfA9kim7TBgJnZCdLTaBK/braV5XbPyREYDZfKh3srnUnDGusyst/tz13Yf\nTBh67AmR0lAXtBhHsWxcI+1X7v52Z3+r51dwB4nFeE3Bmp5mN5FqfPWFAoGBAJ1d\nKSE9jQwAzUTsafIDyXGkSqnT3LVC4q98j5VHkkE6BcRaMBRj9q4MjIo4D/+IK9Ie\nDXcOSlG72SlAnBRIYGNJzt7x3umnpTucoqM3pclBwZiMlrJNtaWDGJLDa9w6DdJn\nNnf1xRUL+Vd8aS0a6pJUvYCpRZXmbWjucwJg5AclAoGBAIUlvxryekA97CmZTPHK\ncPoYmcWKsanzBeBHIzU9iHWZDXCgexysquVoTz3AJGJdiYDn6DkYDWXpuIHrvJOO\n27QlJjbJGtnVxZ/9AdjnUAtbU4QOOTX8cHkiBWTNn4LQEuVpjOEGFsK9UFvWzwwV\no03AGe1rRIsn3Vvu/zScFodx\n-----END PRIVATE KEY-----\n",
+    "private_key_id": "Key",
+    "private_key": "Key",
     "client_email": "firebase-adminsdk-7src6@ig-bot-demo-9a6ca.iam.gserviceaccount.com",
     "client_id": "107879621562836555429",
     "auth_uri": "https://accounts.google.com/o/oauth2/auth",
